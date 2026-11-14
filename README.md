@@ -25,4 +25,4 @@ Welcome to my **SCST1133 Data Engineering Ecosystem** repository! This space doc
 
 ## 🔗 Quick Links
 - **LinkedIn Profile:** [linkedin.com/in/damia-qistina-43826634b](https://www.linkedin.com/in/damia-qistina-43826634b)
-- **Figma Prototype:** *Coming soon*
+- **Figma Prototype:** https://www.figma.com/proto/kUxL5TyrMGBv8Pn8UlAL6G/program_1?node-id=1-5&p=f&t=xnXHokceGCzAOO2Z-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A4&starting-point-node-id=1%3A5
